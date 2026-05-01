@@ -15,12 +15,12 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 **Education:** Pursuing a B.S. in Computer Engineering at [Universidad Simón Bolívar (USB)](https://www.linkedin.com/school/universidad-simon-bolivar/), with a strong focus on backend architecture.</br>
-💻 **Current Focus:** Architecting highly optimized backend solutions, relational databases, and data analysis models.</br>
-🌱 **Upskilling:** Expanding my backend foundation into Full-Stack development by exploring web architecture and RESTful APIs.</br>
-💬 **Let's discuss:** Python, PostgreSQL, low-level C (POSIX system programming), and algorithmic efficiency.</br>
-📫 **Contact:** Reach out via [angelpachecocamargo@gmail.com](mailto:angelpachecocamargo@gmail.com)</br>
-⚡ **Fun fact:** I apply the same rigorous debugging principles to real-world logistics bottlenecks as I do to a POSIX shell in C—analyzing, isolating, and optimizing!
+- 🎓 **Education:** Pursuing a B.S. in Computer Engineering at [Universidad Simón Bolívar (USB)](https://www.linkedin.com/school/universidad-simon-bolivar/), with a strong focus on backend architecture.</br>
+- 💻 **Current Focus:** Architecting highly optimized backend solutions, relational databases, and data analysis models.</br>
+- 🌱 **Upskilling:** Expanding my backend foundation into Full-Stack development by exploring web architecture and RESTful APIs.</br>
+- 💬 **Let's discuss:** Python, PostgreSQL, low-level C (POSIX system programming), and algorithmic efficiency.</br>
+- 📫 **Contact:** Reach out via [angelpachecocamargo@gmail.com](mailto:angelpachecocamargo@gmail.com)</br>
+- ⚡ **Fun fact:** I apply the same rigorous debugging principles to real-world logistics bottlenecks as I do to a POSIX shell in C—analyzing, isolating, and optimizing!
 
 <br>
 
