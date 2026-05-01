@@ -28,7 +28,7 @@
 
 ## 💻 Tech Stack
 
-[![Python, Kotlin, C, R, PostgreSQL, Bash, Linux, Git, Docker](https://skillicons.dev/icons?i=python,c,kotlin,r,postgres,bash,linux,ubuntu,git,github,docker)](https://skillicons.dev)
+[![Python, Kotlin, C, R, PostgreSQL, Bash, Linux, Git](https://skillicons.dev/icons?i=python,c,kotlin,r,postgres,bash,linux,ubuntu,git,github,docker)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
