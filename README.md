@@ -13,7 +13,7 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 🎓 **Education:** Pursuing a B.S. in Computer Engineering at [Universidad Simón Bolívar (USB)](https://www.linkedin.com/school/universidad-simon-bolivar/), with a strong focus on backend architecture.</br>
 💻 **Current Focus:** Architecting highly optimized backend solutions, relational databases, and data analysis models.</br>
