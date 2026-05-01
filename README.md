@@ -28,12 +28,11 @@
 
 ## 💻 Tech Stack
 
-[![Python, Kotlin, C, R, PostgreSQL, Bash, Linux, Git](https://skillicons.dev/icons?i=python,c,kotlin,r,postgres,bash,linux,ubuntu,git,github,docker)](https://skillicons.dev)
+[![Python, Kotlin, C, R, PostgreSQL, Bash, Linux, Git](https://skillicons.dev/icons?i=python,kotlin,c,r,postgres,bash,linux,ubuntu,git,github)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
+[![GitHub streak stats](https://github-readme-streak-stats-eight.vercel.app/?user=PaaCHeeC&theme=github_dark&hide_border=true&ring=C9D1D9&fire=C9D1D9&dates=8B949E&stroke=30363D)](https://git.io/streak-stats)
 
-[![GitHub streak stats](https://github-readme-streak-stats-eight.vercel.app/?user=PaaCHeeC&theme=tokyonight)](https://git.io/streak-stats)
-
-[![GitHub most used languages](https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=PaaCHeeC&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub most used languages](https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=PaaCHeeC&theme=github_dark&hide_border=true&layout=compact&title_color=F0F6FC&text_color=8B949E)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
